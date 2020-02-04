@@ -10,3 +10,33 @@
 
 }
 
+img{
+
+    height: 200px;
+    width: 250px;
+    display: block;
+    margin: auto;
+
+
+}
+
+p{
+
+    font-size: 20px;
+    line-height: 30px;
+
+
+}
+ body{
+
+    background-color: lightgray;
+
+
+ }
+
+#name-head{
+
+    font-size: 30px;
+
+}   
+
